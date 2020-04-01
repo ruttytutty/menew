@@ -5,10 +5,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/blair.jpg");
-  background-repeat: no-repeat;
-  background-position: top center;
+  background: #f2f4f6 url("img/blair.jpg") no-repeat top center;
 }
 
 .container {
