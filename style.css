@@ -5,7 +5,10 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background: #f2f4f6 url("https://github.com/ruttytutty/menew/blob/master/img/blair.jpg?raw=true") no-repeat top center; 
+ background-color: #f2f4f6;
+  background-image: url("img/blair.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
 }
 
 .container {
@@ -169,7 +172,7 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
-  color: #ffffff;
+  color: #151515;
 }
 
 .page-footer a {
